@@ -63,7 +63,7 @@ class portfolio(object):
     def solve_w(self):
         '''
         solve the problem and return the fraction w=(w1,w2,...,wn)
-        for the Markowtiz Mean-Variance model
+        for the Markowitz Mean-Variance model
         Minimize risk while achiving expected return
         '''
         print("=================================================================\n"
